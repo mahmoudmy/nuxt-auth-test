@@ -37,6 +37,10 @@ module.exports = {
     '@nuxtjs/auth',
   ],
 
+  auth: {
+
+  },
+
   /*
    ** Build configuration
    */
